@@ -1,7 +1,7 @@
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
-public class TestEstateAgent {
+public class TestTotalSales {
 
     @Test
     public void calculateTotalSales_ReturnsTotalSales() {
